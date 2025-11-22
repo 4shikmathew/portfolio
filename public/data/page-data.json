@@ -1,0 +1,120 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "ashikmathew937@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:ashikmathew937@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9037497044",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+919037497044"
+      },
+      {
+        "type": "website",
+        "label": "www.mywebsite.com",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.mywebsite.com"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "instagram",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://www.instagram.com/_ashikmathew_/"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/ashik-mathew-varughese-319981303/"
+      },
+      {
+        "platform": "github",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Bachelor of Computer Applications (BCA)",
+        "year":  "2023 - Present",
+        "description": "Currently pursuing BCA from DC School Of Management and Technology, Kerala. Focused on software development, full-stack web technologies, and Android app development. Active in academic projects and hackathons."
+      },
+      {
+        "title": "Higher Secondary Education",
+        "year":  "2020 – 2022",
+        "description": "Completed higher secondary studies with Computer Science specialization at Indian School Salalah [Oman], Kerala. Developed strong fundamentals in programming and computer systems."
+      },
+      {
+        "title": "Secondary School Education",
+        "year":  "2019 – 2020",
+        "description": "Completed schooling at Indian School Salalah [Oman], building a solid foundation in mathematics, logic, and technology interest."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Html",
+        "icon": "/images/home/education-skill/html.png",
+        "rating": 5
+      },
+      {
+        "name": "CSS",
+        "icon": "/images/home/education-skill/css.png",
+        "rating": 5
+      },
+      {
+        "name": "Mysql",
+        "icon": "/images/home/education-skill/mysql.png",
+        "rating": 4
+      },
+      {
+        "name": "VS Code",
+        "icon": "/images/home/education-skill/vs.png",
+        "rating": 4
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python.png",
+        "rating": 5
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/home/education-skill/java.png",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Instagram",
+        "href": "https://www.instagram.com/_ashikmathew_/"
+      },
+      {
+        "title": "Github",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/ashik-mathew-varughese-319981303/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "ashikmathew937@gmail.com",
+        "link": "mailto:ashikmathew937@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 9037497044",
+        "link": "tel:+919037497044"
+      }
+    ]
+  }
+}
