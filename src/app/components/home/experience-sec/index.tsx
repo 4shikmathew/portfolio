@@ -21,7 +21,7 @@ const ExperienceSec = () => {
         {
              year: "Other",
              title:"Creative, adaptable, and strong in problem-solving.",
-            description:"Problem-solving, teamwork, adaptability, and creativity in software design"
+            description:"Problem-solving, teamwork, adaptability, and creativity in Web Development"
         }
     ];
 

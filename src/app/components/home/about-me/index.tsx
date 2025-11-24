@@ -40,11 +40,11 @@ I’ve worked on multiple academic and personal projects focusing on solving rea
 My goal is to grow as a developer, explore full-stack and cloud technologies, and build impactful digital products.
                 </p>
 
-                <div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-mistGray">
+                {<div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-mistGray">
                   {[
-                    { count: "06", label: "Years of experience" },
-                    { count: "165+", label: "Happy Clients" },
-                    { count: "1800+", label: "Project Completed" },
+                    { count: "Fresher", label: "Years of experience" },
+                    // { count: "#", label: "Happy Clients" },
+                    { count: "1", label: "Project Completed" },
                   ].map((item, i) => (
                     <div key={i}>
                       <h3>{item.count}</h3>
@@ -53,7 +53,7 @@ My goal is to grow as a developer, explore full-stack and cloud technologies, an
                       </p>
                     </div>
                   ))}
-                </div>
+                </div>}
 
                 <div className="pt-8 xl:pt-14 flex flex-col sm:flex-row items-center gap-4">
                   <div className="flex items-center gap-3.5">

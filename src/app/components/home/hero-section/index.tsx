@@ -20,7 +20,7 @@ const index = () => {
                   />
                 </div>
               </div>
-              <h3>Full-stack developer</h3>
+              <h3>Web Developer</h3>
             </div>
             <p className="text-secondary font-normal max-w-md xl:max-w-xl">
               Motivated and tech-driven BCA student skilled in web and Android development. I enjoy transforming ideas into functional, visually appealing, and efficient digital experiences.

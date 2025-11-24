@@ -17,13 +17,13 @@
         "type": "website",
         "label": "www.mywebsite.com",
         "icon": "/images/icon/web-icon.svg",
-        "link": "https://www.mywebsite.com"
+        "link": "ashikmathew.netlify.app"
       }
     ],
     "socialItems": [
       {
         "platform": "instagram",
-        "icon": "/images/icon/dribble-icon.svg",
+        "icon": "/images/icon/instagram-icon.svg",
         "link": "https://www.instagram.com/_ashikmathew_/"
       },
       {
@@ -32,8 +32,8 @@
         "link": "https://www.linkedin.com/in/ashik-mathew-varughese-319981303/"
       },
       {
-        "platform": "github",
-        "icon": "/images/icon/facebook-icon.svg",
+        "platform": "facebook",
+        "icon": "/images/icon/image1.png",
         "link": "https://facebook.com"
       }
     ]
@@ -42,17 +42,17 @@
     "education": [
       {
         "title": "Bachelor of Computer Applications (BCA)",
-        "year":  "2023 - Present",
+        "year": "2023 - Present",
         "description": "Currently pursuing BCA from DC School Of Management and Technology, Kerala. Focused on software development, full-stack web technologies, and Android app development. Active in academic projects and hackathons."
       },
       {
         "title": "Higher Secondary Education",
-        "year":  "2020 – 2022",
-        "description": "Completed higher secondary studies with Computer Science specialization at Indian School Salalah [Oman], Kerala. Developed strong fundamentals in programming and computer systems."
+        "year": "2020 – 2022",
+        "description": "Completed higher secondary studies with Computer Science specialization at Indian School Salalah [Oman]. Developed strong fundamentals in programming and computer systems."
       },
       {
         "title": "Secondary School Education",
-        "year":  "2019 – 2020",
+        "year": "2019 – 2020",
         "description": "Completed schooling at Indian School Salalah [Oman], building a solid foundation in mathematics, logic, and technology interest."
       }
     ],
@@ -97,7 +97,7 @@
       },
       {
         "title": "Github",
-        "href": "/"
+        "href": "https://github.com/4shikmathew"
       },
       {
         "title": "LinkedIn",
