@@ -1,3 +1,23 @@
+export const metadata = {
+  title: "Ashik Mathew | Portfolio",
+  description: "Full-stack developer portfolio website.",
+  keywords: ["Ashik", "Developer", "Portfolio", "Full Stack"],
+  openGraph: {
+    title: "Ashik Mathew Portfolio",
+    description: "Developer portfolio",
+    url: "https://ashikmathew.netlify.app",
+    siteName: "Ashik Portfolio",
+    images: [
+      {
+        url: "/images/og-image.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+};
+
+
 "use client";
 
 import { useState } from "react";
